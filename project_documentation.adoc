@@ -1,0 +1,100 @@
+= 3D School Model: Enhanced Navigation & Environmental Monitoring System
+:doctype: article
+:icons: font
+:source-highlighter: highlightjs
+:toc: left
+:sectnums:
+:imagesdir: images
+
+== Project Overview
+
+This project represents an evolution of our previous class project, significantly enhancing and updating the 3D model of our school. The improved model serves dual purposes: providing an intuitive navigation system for visitors and implementing a comprehensive environmental monitoring system across classrooms.
+
+=== Project Context
+
+In Austria, approximately 90% of schools suffer from poor air quality issues, which can negatively impact student concentration, health, and overall learning outcomes. Our project addresses this widespread problem through technological innovation while simultaneously improving visitor experience.
+
+== System Components
+
+=== 3D School Model Navigation
+
+The updated 3D model of our school building offers:
+
+* Intuitive three-dimensional visualization of the entire school campus
+* Interactive navigation paths for visitors unfamiliar with the building layout
+* Information points highlighting key locations such as offices, specialized classrooms, and facilities
+* Accessibility features for users with different needs
+* Mobile and web-based interfaces for convenient access
+
+=== Environmental Monitoring System
+
+The environmental monitoring aspect of our project includes:
+
+* Comprehensive sensor network deployed in every classroom measuring:
+** CO₂ levels
+** Temperature
+** Humidity
+* Real-time data visualization integrated with the 3D model
+* Historical data collection for trend analysis
+* Automated alerts when measurements exceed recommended thresholds
+* Dashboard for facility management
+
+== Technical Implementation
+
+=== 3D Modeling Technology
+
+The school model has been developed using advanced 3D modeling techniques and technologies to ensure accuracy and performance. The model has been optimized for both desktop and mobile platforms.
+
+=== Sensor Network
+
+Each classroom has been equipped with environmental sensors that:
+
+* Collect measurements at regular intervals
+* Transmit data securely to our central system
+* Require minimal maintenance
+* Operate with low power consumption
+
+=== Data Integration
+
+A key technical achievement of this project is the seamless integration of environmental data with the 3D visualization system, allowing for:
+
+* Color-coded representations of current conditions
+* Time-based playback of environmental changes
+* Drill-down capability for detailed information
+
+== Project Benefits
+
+=== For School Visitors
+
+* Reduced confusion and time spent finding destinations within the school
+* Self-guided tour capabilities
+* Decreased dependence on staff for directional assistance
+* Enhanced visitor experience
+
+=== For School Administration
+
+* Data-driven insights into classroom environmental conditions
+* Ability to identify problem areas requiring ventilation improvements
+* Documentation for compliance with health standards
+* Potential energy savings through optimized HVAC operation
+
+=== For Students and Teachers
+
+* Improved awareness of classroom air quality
+* Better learning and teaching conditions through environmental optimization
+* Educational opportunities using the collected data for science and technology classes
+
+== Future Development
+
+The current implementation establishes a foundation for further enhancements:
+
+* Integration with building automation systems for automatic ventilation control
+* Expansion to include additional environmental parameters (noise levels, light quality)
+* Development of predictive models for preemptive environment management
+* API access for third-party applications and research
+
+== Conclusion
+
+This project represents a significant advancement from our previous work, transforming a basic 3D school model into an integrated solution addressing real-world challenges. By combining navigation assistance with environmental monitoring, we've created a system that enhances both visitor experience and the daily learning environment.
+
+The implementation directly addresses a critical issue affecting most Austrian schools while demonstrating how technology can provide practical solutions to everyday problems. The modular nature of our system allows for continued expansion and improvement as technologies evolve and new needs are identified.
