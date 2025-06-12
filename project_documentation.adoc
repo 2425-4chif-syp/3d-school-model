@@ -93,8 +93,7 @@ The current implementation establishes a foundation for further enhancements:
 * Development of predictive models for preemptive environment management
 * API access for third-party applications and research
 
-== Conclusion
+== Latest versions
 
-This project represents a significant advancement from our previous work, transforming a basic 3D school model into an integrated solution addressing real-world challenges. By combining navigation assistance with environmental monitoring, we've created a system that enhances both visitor experience and the daily learning environment.
-
-The implementation directly addresses a critical issue affecting most Austrian schools while demonstrating how technology can provide practical solutions to everyday problems. The modular nature of our system allows for continued expansion and improvement as technologies evolve and new needs are identified.
+* v2.0.0-alpha (latest)
+* v2.0.0-release (coming soon)
